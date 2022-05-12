@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c48f5a9-3ff5-405b-9220-508b6fab5efd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/correctionPOOsimple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/exo01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/exo01/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +44,79 @@
       <recent name="fr.exo01" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="fr.exo01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo01.Main" />
+  <component name="RunManager" selected="Application.fr.exo05.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo02.Main" />
       <module name="correctionPOOsimple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fr.exo03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo03.Main" />
+      <module name="correctionPOOsimple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fr.exo04.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo04.Main" />
+      <module name="correctionPOOsimple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fr.exo05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo05.Main" />
+      <module name="correctionPOOsimple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exo05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fr.exo06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo06.Main" />
+      <module name="correctionPOOsimple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exo06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.fr.exo01.Main" />
+        <item itemvalue="Application.fr.exo05.Main" />
+        <item itemvalue="Application.fr.exo04.Main" />
+        <item itemvalue="Application.fr.exo03.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.fr.exo06.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -74,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652278453185</updated>
-      <workItem from="1652278454650" duration="3283000" />
+      <workItem from="1652278454650" duration="25615000" />
     </task>
     <servers />
   </component>
