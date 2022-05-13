@@ -28,42 +28,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hacen/www/formations/Aston/java/entrainementPOO/projetBanque&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="fr.exo01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.fr.exo05.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo02.Main" />
+  <component name="RunManager" selected="Application.fr.exo06.Main">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo07.dessin.Run" />
       <module name="correctionPOOsimple" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.exo02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fr.exo03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo03.Main" />
-      <module name="correctionPOOsimple" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fr.exo03.*" />
+          <option name="PATTERN" value="fr.exo07.dessin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="fr.exo07.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo07.Main" />
+      <module name="correctionPOOsimple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exo07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fr.exo06.Main" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.fr.exo07.Main" />
         <item itemvalue="Application.fr.exo05.Main" />
         <item itemvalue="Application.fr.exo04.Main" />
-        <item itemvalue="Application.fr.exo03.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.fr.exo06.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +129,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652278453185</updated>
-      <workItem from="1652278454650" duration="25615000" />
+      <workItem from="1652278454650" duration="30348000" />
+      <workItem from="1652391536730" duration="9714000" />
     </task>
     <servers />
   </component>
@@ -154,6 +156,10 @@
           <line>8</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
